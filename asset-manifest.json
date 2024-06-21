@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a414e079.css",
+    "main.js": "/static/js/main.5e48368e.js",
+    "static/media/studyLink.PNG": "/static/media/studyLink.488ec36aa623433e58db.PNG",
+    "static/media/Figma.png": "/static/media/Figma.e3eda632293ac2143a26.png",
+    "static/media/hostpetalMain.jpg": "/static/media/hostpetalMain.5f14f85f793c59a0b1a6.jpg",
+    "static/media/제이커리.png": "/static/media/제이커리.5218d846e86fbcafcc5d.png",
+    "static/media/lg.jpg": "/static/media/lg.099fabe0d313bda88287.jpg",
+    "static/media/자바스크립트.png": "/static/media/자바스크립트.166865dacb77d214f485.png",
+    "static/media/CSS.png": "/static/media/CSS.7f03bab25789e1b15d38.png",
+    "static/media/pet partner.png": "/static/media/pet partner.fbedffcdfac750e78e04.png",
+    "static/media/HTML5.png": "/static/media/HTML5.ee0324de57bbf6d2511c.png",
+    "static/media/logoComputer.png": "/static/media/logoComputer.88911eaafdaf4ef6507b.png",
+    "static/media/firebase.png": "/static/media/firebase.65c4fe9f7eb228db7a4c.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/github.svg": "/static/media/github.6fa18895f6e6c7772cab7049f7e05f59.svg",
+    "index.html": "/index.html",
+    "main.a414e079.css.map": "/static/css/main.a414e079.css.map",
+    "main.5e48368e.js.map": "/static/js/main.5e48368e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a414e079.css",
+    "static/js/main.5e48368e.js"
+  ]
+}
